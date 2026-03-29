@@ -15,7 +15,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![GitHub](https://img.shields.io/badge/GitHub-DevZWhite-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevZWhite)
 [![Course](https://img.shields.io/badge/Course-CSD--325-FF6B35?style=for-the-badge)](.)
-[![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge)](.)\
+[![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge)](.)
 
 **Student:** Zachary White &nbsp;|&nbsp; **Instructor:** Darrell Payne
 
@@ -46,6 +46,9 @@ CSD325-306J-Advanced-Python/
 ├── 📂 module6/               ← Coming Soon
 ├── 📂 module7/               ← Coming Soon
 ├── 📂 module8/               ← Coming Soon
+├── 📂 module9/               ← Coming Soon
+├── 📂 module10/               ← Coming Soon
+├── 📂 module11/               ← Coming Soon
 │
 └── 📄 README.md
 ```
@@ -57,13 +60,17 @@ CSD325-306J-Advanced-Python/
 | Module | Topic | Status |
 |--------|-------|--------|
 | Module 1 | Git & GitHub Setup | ✅ Complete |
-| Module 2 | Advanced Functions & Decorators | 🔄 In Progress |
-| Module 3 | Object-Oriented Programming | ⏳ Upcoming |
-| Module 4 | File I/O & Exception Handling | ⏳ Upcoming |
-| Module 5 | Database Integration | ⏳ Upcoming |
-| Module 6 | APIs & Web Requests | ⏳ Upcoming |
-| Module 7 | Data Analysis & Visualization | ⏳ Upcoming |
-| Module 8 | Final Project | ⏳ Upcoming |
+| Module 2 | Debugging | 🔄 In Progress |
+| Module 3 | Brownfield Development | ⏳ Upcoming |
+| Module 4 | CSV Read and Matplotlib | ⏳ Upcoming |
+| Module 5 | Bext and Cartesian Planes | ⏳ Upcoming |
+| Module 6 | Emergent Behavior | ⏳ Upcoming |
+| Module 7 | Unittest and test cases | ⏳ Upcoming |
+| Module 8 | JSON | ⏳ Upcoming |
+| Module 9 | JSON and Application programming interfaces | ⏳ Upcoming |
+| Module 10 | Tkinter and GUI forms | ⏳ Upcoming |
+| Module 11 | Introduction to Django | ⏳ Upcoming |
+
 
 ---
 
@@ -75,10 +82,9 @@ CSD325-306J-Advanced-Python/
 |------|---------|
 | 🐍 Python 3.12 | Primary Language |
 | 🗄️ MySQL / SQLite | Database Integration |
-| 📦 pip | Package Management |
 | 🔧 VS Code | Development Environment |
 | 🐙 Git & GitHub | Version Control |
-| 📓 Jupyter Notebook | Data Analysis |
+| 📓 Tkinter | GUI |
 
 </div>
 
