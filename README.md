@@ -38,6 +38,7 @@ CSD325-306J-Advanced-Python/
 │
 ├── 📂 module1/               ← Git & GitHub Setup
 │   └── zwhite_assignment1.2.docx
+│   └── zwhite_assignment1.3.docx
 │
 ├── 📂 module2/               ← Coming Soon
 ├── 📂 module3/               ← Coming Soon
