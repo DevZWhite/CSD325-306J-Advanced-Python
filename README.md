@@ -61,8 +61,8 @@ CSD325-306J-Advanced-Python/
 | Module | Topic | Status |
 |--------|-------|--------|
 | Module 1 | Git & GitHub Setup | ✅ Complete |
-| Module 2 | Debugging | 🔄 In Progress |
-| Module 3 | Brownfield Development | ⏳ Upcoming |
+| Module 2 | Debugging | ✅ Complete |
+| Module 3 | Brownfield Development | 🔄 In Progress |
 | Module 4 | CSV Read and Matplotlib | ⏳ Upcoming |
 | Module 5 | Bext and Cartesian Planes | ⏳ Upcoming |
 | Module 6 | Emergent Behavior | ⏳ Upcoming |
