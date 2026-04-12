@@ -39,17 +39,20 @@ CSD325-306J-Advanced-Python/
 ├── 📂 module1/               ← Git & GitHub Setup
 │   └── zwhite_assignment1.2.docx
 │   └── zwhite_assignment1.3.docx
-│
-├── 📂 module2/               ← Coming Soon
-├── 📂 module3/               ← Coming Soon
-├── 📂 module4/               ← Coming Soon
-├── 📂 module5/               ← Coming Soon
-├── 📂 module6/               ← Coming Soon
-├── 📂 module7/               ← Coming Soon
-├── 📂 module8/               ← Coming Soon
-├── 📂 module9/               ← Coming Soon
-├── 📂 module10/               ← Coming Soon
-├── 📂 module11/               ← Coming Soon
+├── 📂 module2/               ← Debugging
+│   └── zwhite_assignment2.2.docx
+│   └── zwhite_mphtokmph.py
+├── 📂 module3/               ← Brownfield Development
+│   └── zwhite_assignment3.2.docx
+│   └── chohan_zdw.py
+├── 📂 module4/               ← CSV and Matplotlib
+├── 📂 module5/               ← Bext and cartesian planes
+├── 📂 module6/               ← Emergent Behavior
+├── 📂 module7/               ← Unittest and test cases
+├── 📂 module8/               ← JSON
+├── 📂 module9/               ← JSON and Application programming interfaces
+├── 📂 module10/               ← Tkinter and GUI forms
+├── 📂 module11/               ← introduction to Django
 │
 └── 📄 README.md
 ```
@@ -62,8 +65,8 @@ CSD325-306J-Advanced-Python/
 |--------|-------|--------|
 | Module 1 | Git & GitHub Setup | ✅ Complete |
 | Module 2 | Debugging | ✅ Complete |
-| Module 3 | Brownfield Development | 🔄 In Progress |
-| Module 4 | CSV Read and Matplotlib | ⏳ Upcoming |
+| Module 3 | Brownfield Development | ✅ Complete |
+| Module 4 | CSV Read and Matplotlib | 🔄 In Progress |
 | Module 5 | Bext and Cartesian Planes | ⏳ Upcoming |
 | Module 6 | Emergent Behavior | ⏳ Upcoming |
 | Module 7 | Unittest and test cases | ⏳ Upcoming |
